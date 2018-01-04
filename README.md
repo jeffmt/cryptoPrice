@@ -8,4 +8,4 @@ This app is pending being added to the Apple AppStore.
 
 ![Main Screen](MainScreen.png "Main Screen")
 ![Historical Chart Screen](HistoricalChartScreen.png "Historical Chart Screen")
-![Converter Screen](ConverterScreen.png "Converter Screen")
+![Converter Screen](ConvertScreen.png "Converter Screen")
