@@ -7,5 +7,7 @@ This was built in Swift and uses the Alamofire library to fetch crypto price inf
 This app is pending being added to the Apple AppStore.
 
 ![Main Screen](MainScreen.png "Main Screen")
+
 ![Historical Chart Screen](HistoricalChartscreen.png "Historical Chart Screen")
+
 ![Converter Screen](Convertscreen.png "Converter Screen")
